@@ -88,3 +88,9 @@ h1{
 
 
 }
+@media (max-width:1028px) {
+  #title {
+    text-align: center;
+
+
+  }
